@@ -1,2 +1,3 @@
 # This is the third repo.
-# It is only visible in feature1 branch
+# Now also visible in main branch.
+# It is only visible in feature1 branch.
